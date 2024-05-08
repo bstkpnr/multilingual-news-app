@@ -1,10 +1,9 @@
 {
   "goodMorning": "Günaydın, gündemi takip edenler!",
-    "goodAfternoon": "İyi günler, gündemi takip edenler!",
-    "goodEvening": "İyi akşamlar, gündemi takip edenler!",
-    "goodNight": "İyi geceler, gündemi takip edenler!",
+  "goodAfternoon": "İyi günler, gündemi takip edenler!",
+  "goodEvening": "İyi akşamlar, gündemi takip edenler!",
+  "goodNight": "İyi geceler, gündemi takip edenler!",
   "articles": [
-
     {
       "source": {
         "id": null,
@@ -47,7 +46,7 @@
     {
       "source": {
         "id": "techcrunch",
-          "name": "TechCrunch"
+        "name": "TechCrunch"
       },
       "author": "Tage Kene-Okafor",
       "title": "Amazon sonunda Afrika'daki e-ticaret köklerini çökertiyor | TechCrunch",
@@ -92,13 +91,11 @@
       "title": "Fidelity neden Bitcoin'in yakında tekrar yükseleceğini düşünüyor?",
       "description": "Bitcoin geleneksel olarak riskli bir varlık olarak görülüyor ancak oynaklığı sabit değil; piyasa manik aşamalara girip tekrar sakinleştikçe alçalıp akıyor. Dahası, en iyi kripto para biriminin oynaklığı son 12 ayda tarihi düşük seviyelere ulaştı.",
       "url": "https://biztoc.com/x/a0dfb09e0fcc7532",
-        "urlToImage": "https://c.biztoc.com/p/a0dfb09e0fcc7532/s.webp",
-        "publishedAt": "2024-05-07T07:26:07Z",
+      "urlToImage": "https://c.biztoc.com/p/a0dfb09e0fcc7532/s.webp",
+      "publishedAt": "2024-05-07T07:26:07Z",
       "content": "Bitcoin geleneksel olarak riskli bir varlık olarak görülüyor, ancak değişkenliği sabit değil, piyasa manik aşamalara girdikçe alçalıp akıyor ve tekrar sakinleşiyor.Dahası, en iyi kripto para birimleri volatiliteye neden oluyor… [+302 karakter]."
     },
- 
-   
- 
+
     {
       "source": {
         "id": null,
