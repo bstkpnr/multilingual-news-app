@@ -1,0 +1,115 @@
+{"goodMorning": "Good morning, news followers!",
+"goodAfternoon": "Good afternoon, news followers!",
+"goodEvening": "Good evening, news followers!",
+"goodNight": "Good night, news followers!",
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Jenni Reid",
+        "title": "UBS swings back to profit and smashes earnings expectations for the first quarter - CNBC",
+        "description": "It is the Swiss banking giant's first earnings report in the black since it completed the acquisition of fallen rival Credit Suisse.",
+        "url": "https://www.cnbc.com/2024/05/07/ubs-first-quarter-earnings-2024.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107376970-1708622253431-gettyimages-2023498512-porzycki-companie240222_npBFM.jpeg?v=1715028129&w=1920&h=1080",
+        "publishedAt": "2024-05-07T05:04:01Z",
+        "content": "UBS on Tuesday reported a swing back to profit after two quarterly losses as it smashed first-quarter expectations, with results bolstered by higher wealth management revenues.\r\nLower expenses and co… [+1289 chars]"
+        },
+        {
+          "source": {
+          "id": null,
+          "name": "Biztoc.com"
+          },
+          "author": "cnevpost.com",
+          "title": "China EV insurance registrations for week ending May 5: Nio 3600, Tesla 11000, BYD 52600",
+          "description": "Major electric vehicle (EV) makers mostly saw vehicle insurance registrations in China fall last week, with a major holiday taking its toll. For the week of April 29 to May 5, Nio (NYSE: NIO) saw 3,600 insurance registrations of its vehicles in China, accordi…",
+          "url": "https://biztoc.com/x/9a17007e1be029f2",
+          "urlToImage": "https://c.biztoc.com/p/9a17007e1be029f2/og.webp",
+          "publishedAt": "20240507T10:08:08Z",
+          "content": "Major electric vehicle (EV) makers mostly saw vehicle insurance registrations in China fall last week, with a major holiday taking its toll.For the week of April 29 to May 5, Nio (NYSE: NIO) saw 3,60… [+266 chars]"
+          },
+      {"source": {
+        "id": null,
+        "name": "Biztoc.com"
+        },
+        "author": "asiafinancial.com",
+        "title": "Tesla’s EV Sales in China Down 18% YearonYear in April",
+        "description": "The local dominance of China’s top carmaker was clearly illustrated in the latest sales figures, with BYD outselling its US rival Tesla by five to one in April. Tesla sold 62,167 Chinamade electric vehicles last month made at its plant in Shanghai – down 18%…",
+        "url": "https://biztoc.com/x/18136de82a1c3542",
+        "urlToImage": "https://c.biztoc.com/p/18136de82a1c3542/s.webp",
+        "publishedAt": "20240507T10:28:06Z",
+        "content": "The local dominance of Chinas top carmaker was clearly illustrated in the latest sales figures, with BYD outselling its US rival Tesla by five to one in April.Tesla sold 62,167 Chinamade electric ve… [+274 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Tage Kene-Okafor",
+          "title": "Amazon finally puts down e-commerce roots in Africa | TechCrunch",
+          "description": "Amazon's highly awaited entry into Africa has come to fruition, with the tech giant announcing the launch of its e-commerce marketplace in South Africa on",
+          "url": "https://techcrunch.com/2024/05/07/amazon-finally-puts-down-e-commerce-roots-in-africa/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/3D1FA856-2D70-4F38-A4D6-2A1D586AF14E.jpeg?w=1170",
+          "publishedAt": "2024-05-07T10:27:08Z",
+          "content": "Amazon’s highly awaited entry into Africa has come to fruition, with the tech giant announcing the launch of its e-commerce marketplace in South Africa on Tuesday.\r\nIn a statement, the e-commerce gia… [+985 chars]"
+          },
+        
+        {
+        "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+        },
+        "author": null,
+        "title": "North American Morning Briefing: Stock Futures Muted After Rally Fueled by RateCut Hopes",
+        "description": "(marketscreener.com) \nOPENING CALL \n\n Stock futures held steady on Tuesday, continuing a rally that followed a weakerthanexpected jobs report which boosted expectations of an interestrate cut from the Federal Reserve this year. \n\n It's a light week for eco…",
+        "url": "https://www.marketscreener.com/news/latest/NorthAmericanMorningBriefingStockFuturesMutedAfterRallyFueledbyRateCutHopes46647688/",
+        "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "20240507T10:25:57Z",
+        "content": "OPENING CALL \r\nStock futures held steady on Tuesday, continuing a rally that followed a weakerthanexpected jobs report which boosted expectations of an interestrate cut from the Federal Reserve th… [+9872 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Biztoc.com"
+        },
+        "author": "aol.com",
+        "title": "Reddit's first quarterly report follows Elon Musk's lead: Morning Brief",
+        "description": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with: • None The chart of the day On Jan. 30, 2019, Elon Musk launched one of his more unheralded innovations in the business world: He began T…",
+        "url": "https://biztoc.com/x/2bbe1bceb9a98e18",
+        "urlToImage": "https://c.biztoc.com/p/2bbe1bceb9a98e18/s.webp",
+        "publishedAt": "20240507T10:22:07Z",
+        "content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:None The chart of the dayOn Jan. 30, 2019, Elon Musk launched one of his more … [+285 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Biztoc.com"
+        },
+        "author": "dlnews.com",
+        "title": "Why Fidelity thinks Bitcoin will soar again soon",
+        "description": "Bitcoin is traditionally seen as a risky asset, but its volatility isn’t constant — it ebbs and flows as the market enters manic phases, and cools off again. What’s more, the top cryptocurrency’s volatility has reached historic lows in the last 12 months, eve…",
+        "url": "https://biztoc.com/x/a0dfb09e0fcc7532",
+        "urlToImage": "https://c.biztoc.com/p/a0dfb09e0fcc7532/s.webp",
+        "publishedAt": "2024-05-07T07:26:07Z",
+        "content": "Bitcoin is traditionally seen as a risky asset, but its volatility isnt constant it ebbs and flows as the market enters manic phases, and cools off again.Whats more, the top cryptocurrencys volatilit… [+302 chars]"},
+      
+     
+    
+        {
+          "source": {
+          "id": null,
+          "name": "Www.df.cl"
+        },
+        "author": "Diario Financiero",
+        "title": "Lo que TikTok y Tesla nos dicen sobre el pragmatismo en EEUU y China",
+        "description": "John Thornhill© 2024 The Financial Times Ltd.",
+        "url": "https://www.df.cl/opinion/columnistas/lo-que-tiktok-y-tesla-nos-dicen-sobre-el-pragmatismo-en-eeuu-y-china",
+        "urlToImage": "https://www.df.cl/noticias/site/artic/20240506/imag/foto_0000000420240506190712/John-Thornhill.jpg",
+        "publishedAt": "2024-05-07T08:00:00Z",
+        "content": "John Thornhill© 2024 The Financial Times Ltd.John Thornhill\r\nCuando Washington mira a China, tiende a ver una superpotencia ideológica, intervencionista y autoritaria que favorece a sus propias compa"}
+      
+        ]
+    
+  }
+  

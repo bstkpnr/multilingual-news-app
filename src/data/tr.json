@@ -1,0 +1,116 @@
+{
+  "goodMorning": "Günaydın, gündemi takip edenler!",
+    "goodAfternoon": "İyi günler, gündemi takip edenler!",
+    "goodEvening": "İyi akşamlar, gündemi takip edenler!",
+    "goodNight": "İyi geceler, gündemi takip edenler!",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jenni Reid",
+      "title": "UBS kâra geri döndü ve ilk çeyrekte kazanç beklentilerini yerle bir etti - CNBC",
+      "description": "Bu, İsviçreli bankacılık devinin, düşen rakibi Credit Suisse'i satın almasının tamamlanmasından bu yana siyah renkli ilk kazanç raporu.",
+      "url": "https://www.cnbc.com/2024/05/07/ubs-first-quarter-earnings-2024.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107376970-1708622253431-gettyimages-2023498512-porzycki-companie240222_npBFM.jpeg?v=1715028129&w=1920&h=1080",
+      "publishedAt": "2024-05-07T05:04:01Z",
+      "content": "UBS Salı günü, yüksek varlık yönetimi gelirleriyle desteklenen sonuçlarla, ilk çeyrek beklentilerini alt üst eden iki çeyreklik kaybın ardından kâra geri döndüğünü bildirdi.\r\nDüşük giderler ve ortak… [+1289 karakter]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "cnevpost.com",
+      "title": "Çin Elektrikli Araç Sigorta Kayıtları 5 Mayıs Sonu Biten Hafta İçin: Nio 3600, Tesla 11000, BYD 52600",
+      "description": "Büyük elektrikli araç (EV) üreticileri çoğunlukla Çin'de geçen hafta araç sigorta kayıtlarının düştüğünü gördü, büyük bir tatilin etkisiyle. 29 Nisan - 5 Mayıs haftası için, Nio (NYSE: NIO) Çin'deki araçlarının 3.600 sigorta kaydını gördü...",
+      "url": "https://biztoc.com/x/9a17007e1be029f2",
+      "urlToImage": "https://c.biztoc.com/p/9a17007e1be029f2/og.webp",
+      "publishedAt": "20240507T10:08:08Z",
+      "content": "Büyük elektrikli araç (EV) üreticileri çoğunlukla Çin'de geçen hafta araç sigorta kayıtlarının düştüğünü gördü, büyük bir tatilin etkisiyle. 29 Nisan - 5 Mayıs haftası için, Nio (NYSE: NIO) Çin'deki araçlarının 3.600 sigorta kaydını gördü..."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "asiafinancial.com",
+      "title": "Tesla'nın Nisan Ayındaki Çin'deki Elektrikli Araç Satışları Yıllık %18 Düştü",
+      "description": "Çin'in en büyük otomobil üreticisinin yerel hakimiyeti, en son satış rakamlarında açıkça görüldü; Nisan ayında, BYD, ABD rakibi Tesla'yı beşe bir satarken Tesla, Şanghay'daki fabrikasında üretilen Çin yapımı 62.167 elektrikli aracı sattı - %18 düşüş…",
+      "url": "https://biztoc.com/x/18136de82a1c3542",
+      "urlToImage": "https://c.biztoc.com/p/18136de82a1c3542/s.webp",
+      "publishedAt": "20240507T10:28:06Z",
+      "content": "Çin'in en büyük otomobil üreticisinin yerel hakimiyeti, en son satış rakamlarında açıkça görüldü; Nisan ayında, BYD, ABD rakibi Tesla'yı beşe bir satarken Tesla, Şanghay'daki fabrikasında üretilen Çin yapımı elektrikli araçları 62.167 nameet sattı..."
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+          "name": "TechCrunch"
+      },
+      "author": "Tage Kene-Okafor",
+      "title": "Amazon sonunda Afrika'daki e-ticaret köklerini çökertiyor | TechCrunch",
+      "description": "Amazon'un merakla beklenen Afrika'ya girişi, teknoloji devinin Güney Afrika'da e-ticaret pazarının açıldığını duyurmasıyla meyvelerini verdi.",
+      "url": "https://techcrunch.com/2024/05/07/amazon-finally-puts-down-e-commerce-roots-in-africa/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/3D1FA856-2D70-4F38-A4D6-2A1D586AF14E.jpeg?w=1170",
+      "publishedAt": "2024-05-07T10:27:08Z",
+      "content": "Amazon'un merakla beklenen Afrika'ya girişi, teknoloji devinin Salı günü Güney Afrika'da e-ticaret pazarının açıldığını duyurmasıyla meyvelerini verdi.\r\nBir açıklamada, e-ticaret devi… [+985 karakter]."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": null,
+      "title": "Kuzey Amerika Sabah Özeti: Faiz Kesme Umuduyla Artan Ralli Sonrası Hisse Senedi Vnameeli İşlemleri Dengeli",
+      "description": "(marketscreener.com) Açılış Çağrısı Salı günü hisse senedi vnameeli işlemleri dengeli bir şekilde devam etti, zayıf istihdam raporunu takiben artan bir ralliyi takip eden, bu yıl Federal Rezerv'in faiz indirimi beklentilerini artıran bir durum. Ekonomik veri bakımından hafif bir hafta...",
+      "url": "https://www.marketscreener.com/news/latest/NorthAmericanMorningBriefingStockFuturesMutedAfterRallyFueledbyRateCutHopes46647688/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "20240507T10:25:57Z",
+      "content": "Açılış Çağrısı Salı günü hisse senedi vnameeli işlemleri dengeli bir şekilde devam etti, zayıf istihdam raporunu takiben artan bir ralliyi takip eden, bu yıl Federal Rezerv'in faiz indirimi beklentilerini artıran bir durum. Ekonomik veri bakımından hafif bir hafta olacak..."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "aol.com",
+      "title": "Reddit'in İlk Üç Aylık Raporu Elon Musk'ın İzinden Gidiyor: Sabah Özeti",
+      "description": "Bu, bugünkü Sabah Özeti'nden Alınanlar'dır, her sabah e-posta nameresinize alabileceğiniz ve her sabah alabileceğiniz şeylerle birlikte: • Yok Grafik Grafik Olayları 30 Ocak 2019'da Elon Musk iş dünyasında daha az bilinen yeniliklerinden birini başlattı:...",
+      "url": "https://biztoc.com/x/2bbe1bceb9a98e18",
+      "urlToImage": "https://c.biztoc.com/p/2bbe1bceb9a98e18/s.webp",
+      "publishedAt": "20240507T10:22:07Z",
+      "content": "Bu, bugünkü Sabah Özeti'nden Alınanlar'dır, her sabah e-posta nameresinize alabileceğiniz ve her sabah alabileceğiniz şeylerle birlikte: Grafik Yok Grafik Grafik Olayları 30 Ocak 2019'da Elon Musk iş dünyasında daha az bilinen yeniliklerinden birini başlattı..."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "dlnews.com",
+      "title": "Fidelity neden Bitcoin'in yakında tekrar yükseleceğini düşünüyor?",
+      "description": "Bitcoin geleneksel olarak riskli bir varlık olarak görülüyor ancak oynaklığı sabit değil; piyasa manik aşamalara girip tekrar sakinleştikçe alçalıp akıyor. Dahası, en iyi kripto para biriminin oynaklığı son 12 ayda tarihi düşük seviyelere ulaştı.",
+      "url": "https://biztoc.com/x/a0dfb09e0fcc7532",
+        "urlToImage": "https://c.biztoc.com/p/a0dfb09e0fcc7532/s.webp",
+        "publishedAt": "2024-05-07T07:26:07Z",
+      "content": "Bitcoin geleneksel olarak riskli bir varlık olarak görülüyor, ancak değişkenliği sabit değil, piyasa manik aşamalara girdikçe alçalıp akıyor ve tekrar sakinleşiyor.Dahası, en iyi kripto para birimleri volatiliteye neden oluyor… [+302 karakter]."
+    },
+ 
+   
+ 
+    {
+      "source": {
+        "id": null,
+        "name": "Www.df.cl"
+      },
+      "author": null,
+      "title": "TikTok ve Tesla bize ABD ve Çin'deki pragmatizm hakkında neler söylüyor?",
+      "description": "John Thornhill© 2024 The Financial Times Ltd.",
+      "url": "https://www.df.cl/opinion/columnistas/lo-que-tiktok-y-tesla-nos-dicen-sobre-el-pragmatismo-en-eeuu-y-china",
+      "urlToImage": "https://www.df.cl/noticias/site/artic/20240506/imag/foto_0000000420240506190712/John-Thornhill.jpg",
+      "publishedAt": "2024-05-07T08:00:00Z",
+      "content": "John Thornhill© 2024 The Financial Times Ltd.John Thornhill\r\nWashington Çin'e baktığında, kendi şirketini kayıran ideolojik, müdahaleci, otoriter bir süper güç görme eğilimindedir."
+    }
+  ]
+}
