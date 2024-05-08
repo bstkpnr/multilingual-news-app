@@ -13,20 +13,20 @@
 ## Setup
 
 ### Required Libraries
-expo install expo-localization
-npm install i18n-js
+##### expo install expo-localization
+#### npm install i18n-js
 
 ### Cloning the Project
-Clone the project from GitHub:
-git clone 
+#### Clone the project from GitHub:
+##### git clone https://github.com/bstkpnr/multilingual-news-app.git
 
 ### Installing Dependencies
-Install the dependencies used in the project:
-npm install
+#### Install the dependencies used in the project:
+#### npm install
 
 ### Running the Project
-Run the project:
-npm start
+#### Run the project:
+#### npm start
 
 
 ### 👋
