@@ -1,8 +1,8 @@
 {
-  "goodMorning": "Günaydın, gündemi takip edenler!",
-  "goodAfternoon": "İyi günler, gündemi takip edenler!",
-  "goodEvening": "İyi akşamlar, gündemi takip edenler!",
-  "goodNight": "İyi geceler, gündemi takip edenler!",
+  "goodMorning": "Günaydın, haber severler!",
+  "goodAfternoon": "İyi günler, haber severler!",
+  "goodEvening": "İyi akşamlar, haber severler!",
+  "goodNight": "İyi geceler, haber severler!",
   "articles": [
     {
       "source": {
